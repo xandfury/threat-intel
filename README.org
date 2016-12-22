@@ -1,1 +1,10 @@
-*** This is this the repository for a threat intelligence tool
+*** Online Intelligence Gathering and Analytics Tool
+
+*** Desription
+Social media is one of the most popular media where data related to anything and everything is populated by everyone in the world. Tracking of internet/ social media for keywords/ chatting/ conversations/ emails/ messages etc which may reveal intelligence/vigilance related data/activities pertaining to procurement/ purchase/ defence/ terrorism/ violence activities, latest weather reports/ political/ social/ environmental factors of selected location etc.
+
+There exists a need of continuous updation of these intelligence data to feed into systems for achieving strategic, business, vigilance and security requirements. It is required to project the data so analyzed in a useful manner for depiction and decision making by the stakeholder (defence, vigilance etc).
+
+These system utilizing the intelligence data would mostly be disconnected from Internet due to confidential nature of these systems.
+
+It is desired to develop a tool/ portable application to gather intelligence from all the social media data/ RSS feeds, related to the chosen parameter, analyze and convert the data into the customized report formats. Reports generation should be possible in various formats such as Excel, Word, pdf, ppt etc. There should be an option to change the report format (Column titles, sub titles, paragraph, field alignment etc). There should be a provision to upload these customized formats into the target system, which is not in internet domain.
